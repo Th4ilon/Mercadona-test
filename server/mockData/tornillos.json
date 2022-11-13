@@ -1,0 +1,29 @@
+{
+    "tornillos": [
+        {
+            "id": 1,
+            "name": "Tornillo 1",
+            "price": 1.99,
+            "brand": "Tornillo A",
+            "color": "red",
+            "quantity": 10
+        },
+        {
+            "id": 2,
+            "name": "Tornillo 2",
+            "price": 2.99,
+            "brand": "Tornillo B",
+            "color": "blue",
+            "quantity": 20
+        },
+        {
+            "id": 3,
+            "name": "Tornillo 3",
+            "price": 3.99,
+            "brand": "Tornillo C",
+            "color": "green",
+            "quantity": 30
+        }
+
+    ]
+}

@@ -1,0 +1,21 @@
+.header {
+    position: relative;
+    z-index: 1;
+    border-bottom: 3px solid var(--mercadona-color);
+    .logo {
+        z-index: 1;
+        margin-left: 10px;
+        img {
+            width: 250px;
+        }
+    }
+    button {
+       background-color: var(--color-grey);
+       float: right;
+       color: var(--color-white);
+       border-radius: 0%;
+    }
+}
+.example-spacer {
+    flex: 1 1 auto;
+  }
